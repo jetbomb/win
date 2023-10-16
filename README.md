@@ -1,6 +1,4 @@
 # win
-# 1111111111111111
-# 1111111111111111
-# 1111111111111111
-# 1111111111111111
-# https://www.youtube.com/watch?v=blRPdRTiWWA
+# 測試中
+# https://www.youtube.com/watch?v=blRPdRTiWWA(黑澀會網聚一)
+# https://www.youtube.com/watch?v=blRPdRTiWWA(黑澀會網聚二)
