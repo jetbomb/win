@@ -1,4 +1,4 @@
-<img src="001.gif"><img src="001.gif"><img src="001.gif"><img src="001.gif">
+
 # <img src="flag.jpg"> 
 # 測試中 
 
