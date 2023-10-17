@@ -7,6 +7,7 @@
 # https://www.youtube.com/watch?v=NG4TtdMpj7Y(黑澀會網聚二)
 # XCH帳戶
 # 新黑澀會長現場直播頻道
+# https://www.youtube.com/watch?v=6YgeXxIWjsA
 # 公告
 # 會外事務
 # 會規
