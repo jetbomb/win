@@ -5,7 +5,7 @@
 # <img src="war.jpg"><img src="enemy1.jpg">
 # https://www.youtube.com/watch?v=blRPdRTiWWA(黑澀會網聚一)
 # https://www.youtube.com/watch?v=NG4TtdMpj7Y(黑澀會網聚二)
-# XCH帳戶
+
 # 新黑澀會長現場直播頻道
 # https://www.youtube.com/watch?v=6YgeXxIWjsA
 # 公告
@@ -14,4 +14,5 @@
 # 公會戰事
 # 網聚
 # 戲谷公關
+# XCH帳戶
 # xch1km6haeqcqknxkhwj5g4asd0u3na0026ucxdzzl586h0mn0rqj0gqwpcz7g
