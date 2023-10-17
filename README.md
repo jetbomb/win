@@ -21,7 +21,7 @@
 # 網聚
 # 戲谷公關
 # 會外事務: tfftfftff7788@yahoo.com.tw
-# XCH帳戶
+# XCH
 # xch1km6haeqcqknxkhwj5g4asd0u3na0026ucxdzzl586h0mn0rqj0gqwpcz7g
 # 技術支援: jetbomb2012@gmail.com
 <img src="giphy.gif">
