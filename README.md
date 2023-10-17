@@ -17,5 +17,6 @@
 # 公會戰事
 # 網聚
 # 戲谷公關
+# 會外事務
 # XCH帳戶
 # xch1km6haeqcqknxkhwj5g4asd0u3na0026ucxdzzl586h0mn0rqj0gqwpcz7g
