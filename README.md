@@ -1,4 +1,4 @@
-<img src="giphy.gif">
+
 # <img src="flag.jpg"> 
 
 
@@ -12,6 +12,7 @@
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
 # https://www.youtube.com/watch?v=blRPdRTiWWA(黑澀會網聚一)
 # https://www.youtube.com/watch?v=NG4TtdMpj7Y(黑澀會網聚二)
+<img src="giphy.gif<img src="giphy.gif"><img src="giphy.gif"><img src="giphy.gif">
 # 公告
 # 2023/10/17已呈報 前會長由傑邦上兵承接本公會, 另會長職業九段加持 
 # 會規 :首重會員間禁止貨幣買賣, 致影響公會品質
