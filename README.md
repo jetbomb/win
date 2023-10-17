@@ -1,7 +1,7 @@
-# win
+# <img src="flag.jpg">
 # 測試中 
 # 已呈報前會長由傑邦上兵承接本公會, 由於會徽屬個資保護, 可理解
-# <img src="flag.jpg">
+# 
 # <img src="war.jpg"><img src="enemy1.jpg">
 # https://www.youtube.com/watch?v=blRPdRTiWWA(黑澀會網聚一)
 # https://www.youtube.com/watch?v=NG4TtdMpj7Y(黑澀會網聚二)
