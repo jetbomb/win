@@ -6,7 +6,8 @@
 
 
 
-# 已呈報 前會長由傑邦上兵承擔本公會收復失土之重責大任, 另副會長職業九段加持 
+# 已呈報 前會長由傑邦上兵承擔本公會收復失土之重責大任 
+# 另有副會長職業九段加持 
 # 由於會徽屬個資保護, 可理解
 # 會長現場直播https://www.youtube.com/watch?v=6YgeXxIWjsA
 # <img src="war.jpg"> VS <img src="enemy1.jpg">
