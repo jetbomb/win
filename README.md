@@ -23,6 +23,6 @@
 # XCH帳戶
 # xch1km6haeqcqknxkhwj5g4asd0u3na0026ucxdzzl586h0mn0rqj0gqwpcz7g
 # 技術支援: jetbomb2012@gmail.com
-<img src="001.gif"><img src="001.gif"><img src="001.gif">
+<img src="001.gif"><img src="001.gif"><img src="001.gif"><img src="giphy.gif">
 
-<img src="giphy.gif">
+
